@@ -11,7 +11,6 @@
 pacman::p_load(tidyverse)
 pacman::p_load(data.table)
 # pacman::p_load(tidymodels)
-# pacman::p_load(dplyr)
 # library(tidyr)
 search() #give list of attached packages
 
